@@ -1,0 +1,1 @@
+Esta pasta contem o exercio do dia 3.4 em que a proposta é a criação de uma pagina que apresente o animal stomatopoda e suas principais caracteristica e curiosidades, o objetivo é que seja usado os recursos de html semantico que aprendemos em aula, usando pelo menos 6 elementos com as tags header, nav, article, section, h1, h2,h3, aside, footer, table e img.
